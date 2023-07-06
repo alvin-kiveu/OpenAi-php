@@ -1,0 +1,2 @@
+<?php
+$OPENAI_API_KEY = "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";
